@@ -1,0 +1,31 @@
+.profile{
+    width: 100px;
+    height:100px;
+    border-radius: 100px;
+    justify-content: center;
+    display: flex;
+}
+
+.container_profile{
+    display: flex;
+    justify-content: center;
+}
+
+.container_text{
+    justify-items: center;
+}
+
+.form_container{
+    background-color: aqua;
+}
+.span_text{
+    color:yellow;
+}
+
+.p_text{
+    color: white;
+}
+
+body{
+    background-color: black;
+}
