@@ -1,3 +1,20 @@
+
+body{
+    background-color: black;
+}
+
+
+.Container{
+    justify-content: center;
+    
+    background-color:gray;
+    width: 500px;
+    height: 500px;
+    height-top: 50px ;
+    margin: auto;
+}
+
+
 .profile{
     width: 100px;
     height:100px;
@@ -15,9 +32,6 @@
     justify-items: center;
 }
 
-.form_container{
-    background-color: aqua;
-}
 .span_text{
     color:yellow;
 }
@@ -26,6 +40,33 @@
     color: white;
 }
 
-body{
-    background-color: black;
+
+.container_form{
+    justify-items: center;
+    
+}
+
+/* 
+.form_container{
+    background-color: aqua;
+    padding-right: 10px;
+    margin: 10px;
+    width: 200px;
+} */
+
+.button{
+    /* background-color: red; */
+    text-decoration: none;
+    -webkit-text-fill-color:white;
+    grid-row: 10px;
+    height: 50px;
+    width: 50px;
+    margin: 50px;
+    
+ 
+}
+
+
+.form_container{
+    margin-top: 30px;
 }
